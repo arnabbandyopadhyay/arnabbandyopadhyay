@@ -38,7 +38,8 @@ I work at the intersection of systems biology, immunology, and AI, building comp
 - Systems Biology & Immune Modeling  
 - Mathematical Modeling of Disease Dynamics  
 - Medical AI & Deep Learning for Biomedical Data  
-- Computational Immunology  
+- Computational Immunology
+- LLM finetuning
 
 ---
 
@@ -76,7 +77,8 @@ I work at the intersection of systems biology, immunology, and AI, building comp
 ## 🚀 Featured Tools & Projects
 - AI models for biomedical data analysis  
 - Mathematical modeling of immune responses  
-- Image-based medical AI pipelines (MRI / medical imaging)  
+- Image-based medical AI pipelines (MRI / medical imaging)
+- LLM finetuning
 
 ---
 </p>
