@@ -12,7 +12,7 @@ I work at the intersection of systems biology, immunology, and AI, building comp
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnabbandyopadhyay&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/arnabbandyopadhyay?label=Followers&style=social" />
+  <!-- <img src="https://img.shields.io/github/followers/arnabbandyopadhyay?label=Followers&style=social" /> -->
 </p>
 
 <p align="center">
