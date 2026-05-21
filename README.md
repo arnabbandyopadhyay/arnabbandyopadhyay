@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnab</h1>
 
 <h3 align="center">
-Computational Biologist | Mathematical Modeler | Medical AI Researcher
+Computational Biologist | Medical AI Researcher | Agent-Based modeler | Mathematical Modeler 
 </h3>
 
 <p align="center">
